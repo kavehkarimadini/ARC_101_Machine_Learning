@@ -6,5 +6,6 @@ This repo is all about different classic machine learning algorithms used in sup
 * 4- ARC_101_Chapter_04_Handling_Numeric_Data
 * 5- ARC_101_Chapter_05_Handling_Categorical_Data
 * 6- ARC_101_Chapter_06_Handling_Text
-* 7- ARC_101_Kmeans
-* 8- ARC_101_Density_Based
+* 7- ARC_101_Chapter_07_Handling_Dates_and_Times
+* 8- ARC_101_Kmeans
+* 9- ARC_101_Density_Based
